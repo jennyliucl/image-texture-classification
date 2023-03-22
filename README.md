@@ -1,5 +1,5 @@
-# image-classification-AOI
-Image classification in machine learning.
+# image-texture-classification
+Image texture classification with machine learning.
 
 **影像資料處理：影像分群**
 
