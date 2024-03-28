@@ -11,4 +11,4 @@ Image texture classification with machine learning.
 - Label 4: edge defect, 邊緣瑕疵
 - Label 5: particle, 顆粒瑕疵
 
-[按此](https://github.com/jennyliucl/image-classification-AOI/blob/main/presentation/image-classification-AOI.PDF)查看專題成果簡報
+[按此](https://jennyliucl.github.io/JennyLiu/project/image_classification_AOI.PDF)查看專題成果簡報
